@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i|Patua+One');
+
+h1, h2, h3, h4, h5, h6{
+
+    font-family:'Patua One', cursive;
+}
+
+body{
+    font-family: 'Arimo', sans-serif;
+}
+
+.jumbotron{
+
+    background-image: url(http://lorempixel.com/1280/720/) 
+}
